@@ -18,6 +18,7 @@
     "bin"
   ],
   "publishConfig": {
+    "access": "public",
     "registry": "https://registry.npmjs.org"
   },
   "repository": {
@@ -33,5 +34,6 @@
   "dependencies": {
     "import-local": "^3.1.0",
     "npmlog": "^7.0.1"
-  }
+  },
+  "gitHead": "9cacf831d0786438ee2cb792b8b153824aa81958"
 }
